@@ -15,7 +15,9 @@ Once the attackers gained access, they deployed their ransomware, which encrypte
 
 <h2>Incident Analysis</h2>
 
-![A1](https://github.com/user-attachments/assets/214dabc2-8a59-41fd-a16f-503eaf471128)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/214dabc2-8a59-41fd-a16f-503eaf471128" height="80%" width="80%" alt=""/>
+</p>
 
 <!--
  ```diff
